@@ -1,0 +1,14 @@
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.deps.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.runtimeconfig.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.runtimeconfig.dev.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.pdb
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.csprojResolveAssemblyReference.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.csproj.CoreCompileInputs.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.AssemblyInfoInputs.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.AssemblyInfo.cs
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.xUnit.NSub\Debug\netcoreapp2.0\Api.Tests.xUnit.NSub.pdb

@@ -1,0 +1,14 @@
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.deps.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.runtimeconfig.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.runtimeconfig.dev.json
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\b\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.pdb
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.csprojResolveAssemblyReference.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.csproj.CoreCompileInputs.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.AssemblyInfoInputs.cache
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.AssemblyInfo.cs
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.dll
+E:\2017-Dev\WebApi\.vs\WebApi\lut\0\i\Api.Tests.MsTest.Moq\Debug\netcoreapp2.0\Api.Tests.MsTest.Moq.pdb

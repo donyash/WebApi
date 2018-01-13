@@ -1,0 +1,16 @@
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.deps.json
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.runtimeconfig.json
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.runtimeconfig.dev.json
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.dll
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.pdb
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.dll
+E:\2017-Dev\WebApi\API.Tests\bin\Debug\netcoreapp2.0\API.pdb
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.csprojResolveAssemblyReference.cache
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.csproj.CoreCompileInputs.cache
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.AssemblyInfoInputs.cache
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.AssemblyInfo.cs
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.dll
+E:\2017-Dev\WebApi\API.Tests\obj\Debug\netcoreapp2.0\API.Tests.xUnit.Moq.pdb

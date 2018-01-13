@@ -1,0 +1,11 @@
+E:\2017-Dev\WebApi\API\bin\Debug\netcoreapp2.0\API.deps.json
+E:\2017-Dev\WebApi\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+E:\2017-Dev\WebApi\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+E:\2017-Dev\WebApi\API\bin\Debug\netcoreapp2.0\API.dll
+E:\2017-Dev\WebApi\API\bin\Debug\netcoreapp2.0\API.pdb
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.dll
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.pdb
+E:\2017-Dev\WebApi\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
