@@ -75,6 +75,32 @@ namespace API.Controllers
             }
         }
 
+
+        //just a test for CI - will run in stage only then remove.
+        [HttpGet()]
+        [DisableCors]
+        [Route("Test")]
+        public async Task<IActionResult> Testing()
+        {
+            try
+            {
+                var myTask = Task.Run(() => GetAllStations());
+                List<PaymentStationRecord> stations = await myTask;
+
+                if (!stations.Any())
+                    return new NoContentResult();
+
+                return new OkObjectResult(stations);
+            }
+            catch (Exception ex)
+            {
+                //LogException (ex);
+                return StatusCode(500);
+            }
+        }
+
+
+
         private async Task<List<PaymentStationRecord>> GetAllStations()
         {
             return await payStationRepo.Retrieve();
