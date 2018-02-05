@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>API</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>dpy-WebApi - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>stage</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

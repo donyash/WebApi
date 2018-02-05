@@ -79,7 +79,7 @@ namespace API.Controllers
         //just a test for CI - will run in stage only then remove.
         [HttpGet()]
         [DisableCors]
-        [Route("Test")]
+        [Route("Testing")]
         public async Task<IActionResult> Testing()
         {
             try

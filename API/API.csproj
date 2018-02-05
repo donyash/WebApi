@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Properties\PublishProfiles\API20180118030047 - Web Deploy.pubxml" />
+    <None Remove="Properties\PublishProfiles\dpy-WebApi-stage - FTP.pubxml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
